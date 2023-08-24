@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>90CF787D28C49BA917A1D4D0196E89BC81A3CA54</string>
+				<string>D70142AD14DE9CA3EB0B07EA8B33953B0CE5EFC4</string>
 				<key>dateExpires</key>
-				<string>2023/11/08</string>
+				<string>2024/11/10</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>Cloud Managed iOS Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,20 +32,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>90CF787D28C49BA917A1D4D0196E89BC81A3CA54</string>
+						<string>D70142AD14DE9CA3EB0B07EA8B33953B0CE5EFC4</string>
 						<key>dateExpires</key>
-						<string>2023/11/08</string>
+						<string>2024/11/10</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftSocket.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>N326LKZZKF</string>
+						<string>Y3X76MKKP6</string>
 						<key>name</key>
-						<string>seyong park</string>
+						<string>LG Uplus Corp.</string>
 					</dict>
 					<key>versionNumber</key>
 					<string>2.0.2</string>
@@ -54,9 +54,9 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>N326LKZZKF.com.lguplusquality.LogCatcher</string>
+				<string>Y3X76MKKP6.com.lguplus.CCTVLogCatcher</string>
 				<key>com.apple.developer.team-identifier</key>
-				<string>N326LKZZKF</string>
+				<string>Y3X76MKKP6</string>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -65,18 +65,18 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>7be2b616-3d7b-45a5-8aea-4c8eebbad970</string>
+				<string>da83cdd2-9ce3-4f36-aaa6-9eb0d0bb90fd</string>
 				<key>dateExpires</key>
-				<string>2023/11/08</string>
+				<string>2024/08/23</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.lguplusquality.LogCatcher</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.lguplus.CCTVLogCatcher</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>N326LKZZKF</string>
+				<string>Y3X76MKKP6</string>
 				<key>name</key>
-				<string>seyong park</string>
+				<string>LG Uplus Corp.</string>
 			</dict>
 			<key>versionNumber</key>
 			<string>1.0</string>
